@@ -22,7 +22,7 @@ p6 =(c+d,e)                               last + last before, first of next one
 ---------------------------------------------------
 
 
-p2=(d, g-e)     #ignore 2nd element, start from last (4th element, p2 la so 282=4 start from 4th element),, subtracn of 3rd and 1st as 3-1=2 ryt
+p2=(d, g-e)     #ignore 2nd element, start from last (4th element, p2 la so 2*2=4 start from 4th element),, subtracn of 3rd and 1st as 3-1=2 ryt
 <br/>
 p5 = (a, f-h)    #just the reverse of what u did
 
